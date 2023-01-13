@@ -1,0 +1,28 @@
+.logo{
+    width:10%;
+   display:flex
+    
+}
+.bouton{
+    border: 2px solid;
+    background-color: grey;
+    color: white;
+    text-decoration: none;width: 4%;
+    border-radius: 250px;
+   width: 3px;
+   justify-content:flex-end;
+}
+.boutonlien{
+   
+    background-color: rgb(255, 255, 255);
+    color: rgb(63, 61, 61);
+    text-decoration: none;width: 4%;
+    border-radius: 25px;
+   width: 1px;
+
+   align-items:flex-end;
+   
+   }
+.insta{
+    width: 5%;
+}
